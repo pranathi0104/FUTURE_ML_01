@@ -6,7 +6,7 @@ This project was developed as part of the Future Interns Machine Learning Intern
 
 The objective was to build a sales forecasting system using historical business sales data and generate future sales predictions to support business decision-making.
 
----
+
 
 ## Dataset
 
@@ -14,7 +14,7 @@ The objective was to build a sales forecasting system using historical business 
 * Historical retail sales transactions
 * Time-based sales forecasting problem
 
----
+
 
 ## Technologies Used
 
@@ -25,7 +25,7 @@ The objective was to build a sales forecasting system using historical business 
 * Scikit-Learn
 * Jupyter Notebook
 
----
+
 
 ## Project Workflow
 
@@ -79,7 +79,7 @@ Improved Model:
 
 Generated a 30-day sales forecast using recursive forecasting and lag features.
 
----
+
 
 ## Business Impact
 
@@ -91,14 +91,15 @@ The forecasting system can help businesses:
 * Support budgeting and planning
 * Reduce stock shortages and overstocking
 
----
+
 
 ## Results
 
 The improved model achieved lower forecasting errors and produced more reliable future sales predictions by incorporating lag-based historical sales features.
 
----
+
 
 ## Author
 
 Future Interns ML Track - Task 01
+# FUTURE_ML_01
