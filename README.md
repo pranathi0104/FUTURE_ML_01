@@ -25,6 +25,24 @@ The objective was to build a sales forecasting system using historical business 
 * Scikit-Learn
 * Jupyter Notebook
 
+## Dashboard Preview
+
+### Overview
+
+![Dashboard](images/dashboard_overview.png)
+
+### Forecast Chart
+
+![Forecast](images/forecast_chart.png)
+
+### Forecast Summary
+
+![Summary](images/forecast_summary.png)
+
+### Forecast Table
+
+![Table](images/forecast_table.png)
+
 
 
 ## Project Workflow
