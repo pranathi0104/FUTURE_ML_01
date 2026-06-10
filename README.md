@@ -33,15 +33,16 @@ The objective was to build a sales forecasting system using historical business 
 
 ### Forecast Chart
 
-![Forecast](images/forecast_chart.png)
-
-### Forecast Summary
-
-![Summary](images/forecast_summary.png)
+![Forecast](images/Forecast_chart_Summary.png)
 
 ### Forecast Table
 
 ![Table](images/forecast_table.png)
+
+
+### Actual Vs Predicted
+
+![Summary](images/Actual_Vs_Predicted.png)
 
 
 
